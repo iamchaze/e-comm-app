@@ -1,0 +1,26 @@
+[
+  {
+    "name": "manas",
+    "email": "manas@gmail.com",
+    "contact": "9876543210",
+    "username": "manask",
+    "password": "ganja",
+    "answer": "pune"
+  },
+  {
+    "name": "viraj",
+    "email": "viraj@gmail.com",
+    "contact": "9876543210",
+    "username": "virajk",
+    "password": "virajk",
+    "answer": "pune"
+  },
+  {
+    "name": "asdf",
+    "email": "asdf@123",
+    "contact": "asdf",
+    "username": "asdf",
+    "password": "asdf",
+    "answer": "asdf"
+  }
+]

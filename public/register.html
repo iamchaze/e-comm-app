@@ -1,0 +1,20 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+    <h1 id="register">Register User</h1>
+    <form id="register-form"action="/addUser" method="POST">
+        <input type="text" id="name" name="name" placeholder="Enter Name" required><br>
+        <input type="email" id="email" name="email" placeholder="Enter Email" required><br>
+        <input type="contact" id="contact" name="contact" placeholder="Enter Contact Number" required><br>
+        <input type="username" id="username" name="username" placeholder="Enter Username" required><br>
+        <input type="password" id="password" name="password" placeholder="Enter Password" required><br>
+        <label for="securityQuestion">Security Question - What is your Birth Place ?</label>
+        <input type="answer" name="answer" id="answer" placeholder="Enter Answer in Lowercase"><br>
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>
